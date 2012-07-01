@@ -1,0 +1,23 @@
+#!/usr/bin/expect
+set timeout 5 
+spawn luit -encoding big5 telnet bs2.to
+expect "您的帳號";
+send "darkx\n";
+expect "您的密碼" {send "xatier\n\nx\ng\n1\n5"} timeout {exit}
+
+set i 100000;
+while {$i > 0} {
+  set j 10;
+  while {$j > 0} {
+    send "\n1\nf\033OA\033OAfq";
+    set j [expr $j-1];
+  }
+  send "qqqq\033OD\033OD\033OD\033ODx\ng\n1\n5";
+  set i [expr $i-1];
+}
+interact
+exit
+
+fred
+alfred
+fredrick
