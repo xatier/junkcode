@@ -1,0 +1,1149 @@
+Object: 2 elements
+       plurk_users -> 
+                      Object: 1 elements
+                             7810700 -> 
+                                        Object: 13 elements
+                                               display_name -> "清新、健康、聚乳酸"
+                                               nick_name -> "xatierlike"
+                                               has_profile_image -> 1
+                                               location -> "Taiwan"
+                                               avatar -> 8
+                                               is_premium -> False
+                                               date_of_birth -> Null
+                                               email_confirmed -> True
+                                               full_name -> "小阿飄"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 7810700
+                                               karma -> 82.300000
+       plurks -> 
+                 Array: 45 elements
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "決定了，我要直接用pipe，官方API json_print_obj寫得太麻煩了"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 741593746
+                              response_count -> 7
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 09:17:19 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "決定了，我要直接用pipe，官方API json_print_obj寫得太麻煩了"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "Plurk官方API提供的json_print_obj() 是直接printf()到螢幕上，如果我要印到檔案，意味著該重寫過嗎？<img src="http://statics.plurk.com/900f3dd0adaad9142d567caf6bfb1311.gif" class="emoticon" alt="(thinking)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 741584094
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 09:03:24 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "Plurk官方API提供的json_print_obj() 是直接printf()到螢幕上，如果我要印到檔案，意味著該重寫過嗎？(thinking)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://www.youtube.com/watch?v=_-2HPUErsgs&amp;feature=player_embedded&amp;hd=1" class="ex_link youtube"><img src="http://i4.ytimg.com/vi/_-2HPUErsgs/hqdefault.jpg" alt="USB-It Stick-On USB Cable from ThinkGeek" width="40" height="30" /></a> <img src="http://statics.plurk.com/8600839dc03e6275b53fd03a0eba09cf.gif" class="emoticon" alt="(rofl)" height="18" /> 別亂拔別人的USB"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 741403701
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 04:22:48 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://www.youtube.com/watch?v=_-2HPUErsgs&feature=player_embedded&hd=1  (rofl) 別亂拔別人的USB"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "FaceBook頁面轉跳有問題<img src="http://statics.plurk.com/35b16fc25623670e41c2be6bf8ac38c7.gif" class="emoticon" alt="(annoyed)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 741319898
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 02:11:27 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "FaceBook頁面轉跳有問題(annoyed)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "已經"
+                              replurked -> False
+                              content -> "<a href="http://i.imgur.com/DVkHu.jpg" class="ex_link pictureservices" rel="nofollow">i.imgur.com/DVkHu.jpg</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 741288326
+                              response_count -> 3
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 01:20:59 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://i.imgur.com/DVkHu.jpg"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://tw.nextmedia.com/mobile/article/issueid/20110519/artid/33398307/appname/twapple" class="ex_link" rel="nofollow">萬教官！！！！</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 741259472
+                              response_count -> 27
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 00:32:05 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://tw.nextmedia.com/mobile/article/issueid/20110519/artid/33398307/appname/twapple (萬教官！！！！)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "煒哥終於去bs2 [CS100] 發自介了<img src="http://statics.plurk.com/a55bdb344892676b0fea545354654a49.gif" class="emoticon" alt="(dance)" height="35" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 741245816
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 19 May 2011 00:02:26 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "煒哥終於去bs2 [CS100] 發自介了(dance)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "回家<img src="http://statics.plurk.com/4afd784c0df9f7a3ceacb92beca543f6.gif" class="emoticon" alt="(wave)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740602324
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 09:01:00 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "回家(wave)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "回社辦好了"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740540034
+                              response_count -> 3
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 07:25:26 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "回社辦好了"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "x^x &lt;&lt; x! &lt;&lt; e^x &lt;&lt; x^n &lt;&lt; ln(x) when x large  <img src="http://statics.plurk.com/900f3dd0adaad9142d567caf6bfb1311.gif" class="emoticon" alt="(thinking)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740514427
+                              response_count -> 7
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 06:44:48 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "x^x << x! << e^x << x^n << ln(x) when x large  (thinking)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://www4c.wolframalpha.com/Calculate/MSP/MSP49719fdgi17bi1e27hd00005h4e2i828fa9hgfc?MSPStoreType=image/gif&amp;s=19&amp;w=111&amp;h=36" class="ex_link" rel="nofollow">www4c.wolframalpha.com/Calculate/MSP/MSP49719fdgi17bi1e27hd00005h4e2i828fa9hgfc?MSPStoreType=image/gif&amp;s=19&amp;w=111&amp;h=36</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740492317
+                              response_count -> 23
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 06:11:25 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://www4c.wolframalpha.com/Calculate/MSP/MSP49719fdgi17bi1e27hd00005h4e2i828fa9hgfc?MSPStoreType=image/gif&s=19&w=111&h=36"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "決定明天帶AP來學校，網路線一直被踢到 <img src="http://statics.plurk.com/f053074bcce500fbd1e2327d49748a6d.gif" class="emoticon" alt="(nottalking)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740441953
+                              response_count -> 4
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 05:01:12 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "決定明天帶AP來學校，網路線一直被踢到 (nottalking)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "河蟹掉囉 ^.&lt;"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740435053
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 04:51:43 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "河蟹掉囉 ^.<"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "正在"
+                              replurked -> False
+                              content -> "<img src="http://statics.plurk.com/deda4d9f78ad528d725e3a6bfbf6352f.gif" class="emoticon" alt="(Русский)" height="22" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 740383849
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 03:35:45 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "(Русский)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "悲劇，sony vegas裝不起來 =.="
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740348288
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 02:39:04 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "悲劇，sony vegas裝不起來 =.="
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "Plurk API =&gt; Plurk App"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740287028
+                              response_count -> 4
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 01:02:36 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "Plurk API => Plurk App"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "等等幫CIRC-DFS裝  <a href="http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=173856#forumpost173856" class="ex_link" rel="nofollow">Ubuntu MAC Style</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740280819
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 00:52:29 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "等等幫CIRC-DFS裝  http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=173856#forumpost173856 (Ubuntu MAC Style)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "CIRC-DFS 刷成 10.10 了  //之前floatJ 11.04 語言包裝爆了XD"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740258424
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 18 May 2011 00:11:17 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "CIRC-DFS 刷成 10.10 了  //之前floatJ 11.04 語言包裝爆了XD"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "有沒有化學課都沒去上結果平時成績97的八卦 <img src="http://statics.plurk.com/1c890273544559b17f090d09238fa763.gif" class="emoticon" alt="(rock)" height="25" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 740242915
+                              response_count -> 7
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Tue, 17 May 2011 23:33:36 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "有沒有化學課都沒去上結果平時成績97的八卦 (rock)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://farm3.static.flickr.com/2430/5723570778_f336f98829_b.jpg" class="ex_link pictureservices" rel="nofollow">farm3.static.flickr.com/2430/5723570778_f336f98829_b.jpg</a> 當小便斗遇到溫度感測器"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 739560403
+                              response_count -> 3
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Tue, 17 May 2011 07:53:32 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://farm3.static.flickr.com/2430/5723570778_f336f98829_b.jpg 當小便斗遇到溫度感測器"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20149792,00.htm" class="ex_link" rel="nofollow">研究：手機訊號影響蜂群行為</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 739553599
+                              response_count -> 5
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Tue, 17 May 2011 07:42:47 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://www.zdnet.com.tw/news/ce/0,2000085674,20149792,00.htm (研究：手機訊號影響蜂群行為)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://www.youtube.com/watch?v=g78coc95F-A&amp;feature=related&amp;hd=1" class="ex_link youtube"><img src="http://i4.ytimg.com/vi/g78coc95F-A/hqdefault.jpg" alt="騙神/無能馬馬_最新單曲_全球丟臉首播 / 廖小貓發行" width="40" height="30" /></a> <img src="http://statics.plurk.com/92b595a573d25dd5e39a57b5d56d4d03.gif" class="emoticon" alt="(lmao)" height="25" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 739536302
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Tue, 17 May 2011 07:15:37 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://www.youtube.com/watch?v=g78coc95F-A&feature=related&hd=1 (lmao)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "存摺上又增加了6500，家教費揮霍後剩下存下來的"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 739311679
+                              response_count -> 8
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Tue, 17 May 2011 01:47:19 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "存摺上又增加了6500，家教費揮霍後剩下存下來的"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "今天看到 <a href="http://www.plurk.com/lizbrian123" class="ex_link">librian123</a> 實體 =w=+"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720903314
+                              response_count -> 12
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 09:41:42 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "今天看到 http://www.plurk.com/lizbrian123 (librian123) 實體 =w=+"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "ㄎㄅ，川堂的忠烈祠被撤掉了！！取而代之的事『榮譽榜』，幾個鐵牌鑲嵌在玻璃櫃裡的集合 <a href="http://ftt.twbbs.org/icon/fast/angry.gif" class="ex_link pictureservices" rel="nofollow">ftt.twbbs.org/icon/fast/angry.gif</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720870094
+                              response_count -> 18
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 08:58:58 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "ㄎㄅ，川堂的忠烈祠被撤掉了！！取而代之的事『榮譽榜』，幾個鐵牌鑲嵌在玻璃櫃裡的集合 http://ftt.twbbs.org/icon/fast/angry.gif"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://mhperng.blogspot.com/2011/04/blog-post_27.html" class="ex_link" rel="nofollow">台、清、交大羞於告人的「卓越」秘密</a> <img src="http://statics.plurk.com/900f3dd0adaad9142d567caf6bfb1311.gif" class="emoticon" alt="(thinking)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720809839
+                              response_count -> 15
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 07:30:21 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://mhperng.blogspot.com/2011/04/blog-post_27.html (台、清、交大羞於告人的「卓越」秘密) (thinking)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://www.ylmf.net/ylmf/news/20100901725.html" class="ex_link" rel="nofollow">WTF，ylmf OS</a>"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720725910
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 05:21:46 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://www.ylmf.net/ylmf/news/20100901725.html (WTF，ylmf OS)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "感覺上openSuSE的開機速度(從Grub到桌面)沒有Ubuntu來的快，是KDE的關係還是...<img src="http://statics.plurk.com/900f3dd0adaad9142d567caf6bfb1311.gif" class="emoticon" alt="(thinking)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720666809
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 04:02:51 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "感覺上openSuSE的開機速度(從Grub到桌面)沒有Ubuntu來的快，是KDE的關係還是...(thinking)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "媽啦！Grub 完全炸了 = =&quot; 決定整重裝Ubuntu 11.04"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720625481
+                              response_count -> 5
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 03:04:50 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "媽啦！Grub 完全炸了 = =" 決定整重裝Ubuntu 11.04"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "囧...3400其他的OS沒有被放到 openSuSE 的 Grub 裡"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720606368
+                              response_count -> 6
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 02:36:40 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "囧...3400其他的OS沒有被放到 openSuSE 的 Grub 裡"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "分享"
+                              replurked -> False
+                              content -> "<a href="http://images.plurk.com/6c3c3257ce9fedb8871ca02c22132152.jpg" class="ex_link pictureservices"><img src="http://images.plurk.com/tn_6c3c3257ce9fedb8871ca02c22132152.gif" alt="http://images.plurk.com/6c3c3257ce9fedb8871ca02c22132152.jpg" height="30" /></a>
+openSuSE finish!"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 720590445
+                              response_count -> 13
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 02:13:37 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://images.plurk.com/6c3c3257ce9fedb8871ca02c22132152.jpg
+openSuSE finish!"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "跟zeta說的一樣，Ubuntu 11.04的 Unity  好醜 <img src="http://statics.plurk.com/35b16fc25623670e41c2be6bf8ac38c7.gif" class="emoticon" alt="(annoyed)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720566243
+                              response_count -> 19
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 01:37:56 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "跟zeta說的一樣，Ubuntu 11.04的 Unity  好醜 (annoyed)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "我哭哭了，好不容易拆了一台DVD光碟機結果他竟然是<b>**SATA**</b> 2700只有 IDE阿！！！！崩潰！！"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720548027
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 01:10:46 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "我哭哭了，好不容易拆了一台DVD光碟機結果他竟然是**SATA** 2700只有 IDE阿！！！！崩潰！！"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "哭哭，2700沒有DVD光碟機"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720537075
+                              response_count -> 4
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 00:53:42 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "哭哭，2700沒有DVD光碟機"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "昨晚用開極光抓 openSuSE 果然一個晚上就抓好了<img src="http://statics.plurk.com/a55bdb344892676b0fea545354654a49.gif" class="emoticon" alt="(dance)" height="35" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720517074
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Thu, 28 Apr 2011 00:19:14 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "昨晚用開極光抓 openSuSE 果然一個晚上就抓好了(dance)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "11.04 下載完成"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720503994
+                              response_count -> 22
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 23:50:54 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "11.04 下載完成"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "今天公車又被河蟹了 =..="
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720497439
+                              response_count -> 4
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 23:34:07 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "今天公車又被河蟹了 =..="
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "累了，下噗。掰<img src="http://statics.plurk.com/4afd784c0df9f7a3ceacb92beca543f6.gif" class="emoticon" alt="(wave)" height="18" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720097319
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 13:47:54 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "累了，下噗。掰(wave)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "看了《cs99》#16RDRT0 ，交大大勝 而且 看得點項目就知道清大比我們宅 <img src="http://statics.plurk.com/1c890273544559b17f090d09238fa763.gif" class="emoticon" alt="(rock)" height="25" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720065156
+                              response_count -> 3
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 13:22:34 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "看了《cs99》#16RDRT0 ，交大大勝 而且 看得點項目就知道清大比我們宅 (rock)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "今天又賺了600 <img src="http://statics.plurk.com/a55bdb344892676b0fea545354654a49.gif" class="emoticon" alt="(dance)" height="35" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720061822
+                              response_count -> 2
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 13:19:54 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "今天又賺了600 (dance)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "交大資工系主任啾甘心，親自打電話邀請我加入交大資工 <img src="http://statics.plurk.com/150e3f367a063d3baf9720719d78d778.gif" class="emoticon" alt="(heart)" height="19" />"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 720046289
+                              response_count -> 22
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 13:06:44 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "交大資工系主任啾甘心，親自打電話邀請我加入交大資工 (heart)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "正在"
+                              replurked -> False
+                              content -> "(抖)"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 719896025
+                              response_count -> 7
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 10:28:38 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "(抖)"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "<a href="http://citytalk.tw/img/p/10.gif" class="ex_link pictureservices" rel="nofollow">citytalk.tw/img/p/10.gif</a>  1000噗啦！！！"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 719771494
+                              response_count -> 17
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 07:48:01 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "http://citytalk.tw/img/p/10.gif  1000噗啦！！！"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "說"
+                              replurked -> False
+                              content -> "Ubuntu 軟體中心的  Chinese Chess 根本腦殘"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 719767536
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 07:41:42 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "Ubuntu 軟體中心的  Chinese Chess 根本腦殘"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+                       Object: 22 elements
+                              replurkers_count -> 0
+                              favorite_count -> 0
+                              is_unread -> 1
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              qualifier_translated -> "覺得"
+                              replurked -> False
+                              content -> "我看中文書的速度遠大於看原文書的速度"
+                              replurker_id -> Null
+                              owner_id -> 7810700
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 719708058
+                              response_count -> 4
+                              limited_to -> Null
+                              no_comments -> 0
+                              posted -> "Wed, 27 Apr 2011 06:07:09 GMT"
+                              lang -> "tr_ch"
+                              content_raw -> "我看中文書的速度遠大於看原文書的速度"
+                              replurkers -> 
+                                            Array: 0 elements
+                              favorite -> False
+Object: 1 elements
+       success_text -> "ok"

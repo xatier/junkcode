@@ -1,0 +1,2847 @@
+Object: 2 elements
+       plurk_users -> 
+                      Object: 2 elements
+                             7810700 -> 
+                                        Object: 13 elements
+                                               display_name -> "清新、健康、聚乳酸"
+                                               nick_name -> "xatierlike"
+                                               has_profile_image -> 1
+                                               location -> "Taiwan"
+                                               avatar -> 8
+                                               is_premium -> False
+                                               date_of_birth -> Null
+                                               email_confirmed -> True
+                                               full_name -> "小阿飄"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 7810700
+                                               karma -> 70.000000
+                             5657590 -> 
+                                        Object: 12 elements
+                                               nick_name -> "cciwn2010"
+                                               has_profile_image -> 0
+                                               location -> "Taipei, Taiwan"
+                                               avatar -> Null
+                                               is_premium -> False
+                                               date_of_birth -> "Fri, 09 Feb 1990 00:01:00 GMT"
+                                               email_confirmed -> True
+                                               full_name -> "電 資研"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 5657590
+                                               karma -> 19.400000
+       plurks -> 
+                 Array: 30 elements
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 703141046
+                              response_count -> 0
+                              limited_to -> "|5657590||7810700|"
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kerker"
+                              user_id -> 5657590
+                              plurk_type -> 1
+                              favorite -> False
+                              content -> "kerker"
+                              qualifier_translated -> "正在"
+                              posted -> "Mon, 11 Apr 2011 10:03:31 GMT"
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "http://citytalk.tw/img/p/9.gif"
+                              user_id -> 5657590
+                              qualifier -> "is"
+                              plurk_id -> 703132448
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "<a href="http://citytalk.tw/img/p/9.gif" class="ex_link pictureservices" rel="nofollow">citytalk.tw/img/p/9.gif</a>"
+                              qualifier_translated -> "正在"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 09:54:05 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "繼續寫 libplurc"
+                              user_id -> 5657590
+                              qualifier -> "will"
+                              plurk_id -> 703125408
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "繼續寫 libplurc"
+                              qualifier_translated -> "打算"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 09:46:06 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "晚餐 http://ftt.twbbs.org/icon/s/44Mn.gif"
+                              user_id -> 5657590
+                              qualifier -> "says"
+                              plurk_id -> 703112188
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "晚餐 <a href="http://ftt.twbbs.org/icon/s/44Mn.gif" class="ex_link pictureservices" rel="nofollow">ftt.twbbs.org/icon/s/44Mn.gif</a>"
+                              qualifier_translated -> "說"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 09:30:42 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "小A噴氣在我手上...(bah)"
+                              user_id -> 5657590
+                              qualifier -> "says"
+                              plurk_id -> 703110664
+                              response_count -> 1
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "小A噴氣在我手上...<img src="http://statics.plurk.com/9c5c54081547d2ad903648f178fcc595.png" class="emoticon" alt="(bah)" height="35" />"
+                              qualifier_translated -> "說"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 09:28:57 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "C99 Rational 前六章(troll)"
+                              user_id -> 5657590
+                              qualifier -> "has"
+                              plurk_id -> 703101121
+                              response_count -> 5
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "C99 Rational 前六章<img src="http://statics.plurk.com/f73b773aa689647cb09f57f67a83bb89.png" class="emoticon" alt="(troll)" height="31" />"
+                              qualifier_translated -> "已經"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 09:17:45 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "回去化學課睡覺(rock)"
+                              user_id -> 5657590
+                              qualifier -> "says"
+                              plurk_id -> 702928529
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "回去化學課睡覺<img src="http://statics.plurk.com/1c890273544559b17f090d09238fa763.gif" class="emoticon" alt="(rock)" height="25" />"
+                              qualifier_translated -> "說"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 05:09:29 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "福福表示：I just had Pad..."
+                              user_id -> 5657590
+                              qualifier -> "says"
+                              plurk_id -> 702904937
+                              response_count -> 2
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "福福表示：I just had Pad..."
+                              qualifier_translated -> "說"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 04:39:42 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "哭哭啦！17.8Kb/s 是三小速度 =..="
+                              user_id -> 5657590
+                              qualifier -> "says"
+                              plurk_id -> 702903405
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "哭哭啦！17.8Kb/s 是三小速度 =..="
+                              qualifier_translated -> "說"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 04:37:46 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "哭哭，是rpm"
+                              user_id -> 5657590
+                              qualifier -> "says"
+                              plurk_id -> 702887720
+                              response_count -> 4
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "哭哭，是rpm"
+                              qualifier_translated -> "說"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 04:18:01 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "(hungry)"
+                              user_id -> 5657590
+                              qualifier -> "is"
+                              plurk_id -> 702884789
+                              response_count -> 1
+                              favorite -> False
+                              plurk_type -> 0
+                              content -> "<img src="http://statics.plurk.com/0f96595ed7733393b93a3d67aa4f2f4f.gif" class="emoticon" alt="(hungry)" height="17" />"
+                              qualifier_translated -> "正在"
+                              is_unread -> 0
+                              responses_seen -> 0
+                              posted -> "Mon, 11 Apr 2011 04:14:06 GMT"
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              owner_id -> 7810700
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 697181245
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "[697170868]"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "[697170868]"
+                              posted -> "Tue, 05 Apr 2011 12:42:51 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 697170868
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 2
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kerker"
+                              user_id -> 5657590
+                              plurk_type -> 2
+                              favorite -> False
+                              content -> "kerker"
+                              posted -> "Tue, 05 Apr 2011 12:33:34 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 695903823
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "asdf"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "asdf"
+                              posted -> "Mon, 04 Apr 2011 06:06:40 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692328821
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "rm/3"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "rm/3"
+                              posted -> "Thu, 31 Mar 2011 12:22:50 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692327808
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "what_the_fuck"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "what_the_fuck"
+                              posted -> "Thu, 31 Mar 2011 12:21:48 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 692323868
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "qerasdf"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "qerasdf"
+                              qualifier_translated -> ""
+                              posted -> "Thu, 31 Mar 2011 12:17:43 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 692322677
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "qer"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "qer"
+                              qualifier_translated -> ""
+                              posted -> "Thu, 31 Mar 2011 12:16:28 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692317846
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "asdf"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "asdf"
+                              posted -> "Thu, 31 Mar 2011 12:11:22 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692294716
+                              response_count -> 0
+                              limited_to -> "|5657590|"
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "perivateddddd"
+                              user_id -> 5657590
+                              plurk_type -> 1
+                              favorite -> False
+                              content -> "perivateddddd"
+                              posted -> "Thu, 31 Mar 2011 11:46:29 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692291082
+                              response_count -> 0
+                              limited_to -> "|0|"
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "perivatePlurkTedsting"
+                              user_id -> 5657590
+                              plurk_type -> 1
+                              favorite -> False
+                              content -> "perivatePlurkTedsting"
+                              posted -> "Thu, 31 Mar 2011 11:42:26 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692289251
+                              response_count -> 0
+                              limited_to -> "|0|"
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "perivatePlurkTesting"
+                              user_id -> 5657590
+                              plurk_type -> 1
+                              favorite -> False
+                              content -> "perivatePlurkTesting"
+                              posted -> "Thu, 31 Mar 2011 11:40:27 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692287610
+                              response_count -> 0
+                              limited_to -> "|0|"
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "privatePlurkTesting"
+                              user_id -> 5657590
+                              plurk_type -> 1
+                              favorite -> False
+                              content -> "privatePlurkTesting"
+                              posted -> "Thu, 31 Mar 2011 11:38:34 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692283732
+                              response_count -> 0
+                              limited_to -> "|0|"
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kerker"
+                              user_id -> 5657590
+                              plurk_type -> 1
+                              favorite -> False
+                              content -> "kerker"
+                              posted -> "Thu, 31 Mar 2011 11:34:11 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 692267190
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "privatePlurktest"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "privatePlurktest"
+                              posted -> "Thu, 31 Mar 2011 11:15:10 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 691909065
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "XDD"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "XDD"
+                              posted -> "Thu, 31 Mar 2011 03:01:14 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 691907813
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "yoo"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "yoo"
+                              posted -> "Thu, 31 Mar 2011 02:59:29 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 691900281
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "says:asdf"
+                              user_id -> 5657590
+                              plurk_type -> 2
+                              favorite -> False
+                              content -> "says:asdf"
+                              posted -> "Thu, 31 Mar 2011 02:47:35 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 691899864
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "asdf"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "asdf"
+                              posted -> "Thu, 31 Mar 2011 02:46:56 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 691246213
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "Hello world~"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "Hello world~"
+                              qualifier_translated -> ""
+                              posted -> "Wed, 30 Mar 2011 11:46:05 GMT"
+                              owner_id -> 5657590
+Object: 2 elements
+       plurk_users -> 
+                      Object: 1 elements
+                             5657590 -> 
+                                        Object: 12 elements
+                                               nick_name -> "cciwn2010"
+                                               has_profile_image -> 0
+                                               location -> "Taipei, Taiwan"
+                                               avatar -> Null
+                                               is_premium -> False
+                                               date_of_birth -> "Fri, 09 Feb 1990 00:01:00 GMT"
+                                               email_confirmed -> True
+                                               full_name -> "電 資研"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 5657590
+                                               karma -> 19.400000
+       plurks -> 
+                 Array: 30 elements
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 691245854
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "HWl"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "HWl"
+                              qualifier_translated -> ""
+                              posted -> "Wed, 30 Mar 2011 11:45:40 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 691245514
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "HW"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "HW"
+                              qualifier_translated -> ""
+                              posted -> "Wed, 30 Mar 2011 11:45:21 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 691209609
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "Yooooooo"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "Yooooooo"
+                              qualifier_translated -> ""
+                              posted -> "Wed, 30 Mar 2011 11:05:42 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "will"
+                              plurk_id -> 690941384
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewishes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewishes"
+                              posted -> "Wed, 30 Mar 2011 05:03:31 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "was"
+                              plurk_id -> 690941380
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewillwishes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewillwishes"
+                              posted -> "Wed, 30 Mar 2011 05:03:30 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "wants"
+                              plurk_id -> 690941369
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewaswill"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewaswill"
+                              posted -> "Wed, 30 Mar 2011 05:03:29 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 690941348
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ethinkswants"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ethinkswants"
+                              posted -> "Wed, 30 Mar 2011 05:03:28 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "thinks"
+                              plurk_id -> 690941357
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewantswas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewantswas"
+                              posted -> "Wed, 30 Mar 2011 05:03:28 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 690941342
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "esharesthinks"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "esharesthinks"
+                              posted -> "Wed, 30 Mar 2011 05:03:27 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "loves"
+                              plurk_id -> 690941334
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "esaysshares"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "esaysshares"
+                              posted -> "Wed, 30 Mar 2011 05:03:26 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690941319
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "elikesloves"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "elikesloves"
+                              posted -> "Wed, 30 Mar 2011 05:03:25 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "likes"
+                              plurk_id -> 690941323
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "elovessays"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "elovessays"
+                              posted -> "Wed, 30 Mar 2011 05:03:25 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "hates"
+                              plurk_id -> 690941312
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "eislikes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "eislikes"
+                              posted -> "Wed, 30 Mar 2011 05:03:24 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 690941304
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ehatesis"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ehatesis"
+                              posted -> "Wed, 30 Mar 2011 05:03:23 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690941285
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "egiveshas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "egiveshas"
+                              posted -> "Wed, 30 Mar 2011 05:03:22 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "gives"
+                              plurk_id -> 690941296
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ehashates"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ehashates"
+                              posted -> "Wed, 30 Mar 2011 05:03:22 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "asks"
+                              plurk_id -> 690941274
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "efeelsgives"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "efeelsgives"
+                              posted -> "Wed, 30 Mar 2011 05:03:21 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "was"
+                              plurk_id -> 690930361
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewillwishes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewillwishes"
+                              posted -> "Wed, 30 Mar 2011 04:48:55 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "will"
+                              plurk_id -> 690930369
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewishes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewishes"
+                              posted -> "Wed, 30 Mar 2011 04:48:55 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "wants"
+                              plurk_id -> 690930352
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewaswill"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewaswill"
+                              posted -> "Wed, 30 Mar 2011 04:48:54 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 690930329
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ethinkswants"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ethinkswants"
+                              posted -> "Wed, 30 Mar 2011 04:48:53 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "thinks"
+                              plurk_id -> 690930342
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ewantswas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ewantswas"
+                              posted -> "Wed, 30 Mar 2011 04:48:53 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 690930322
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "esharesthinks"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "esharesthinks"
+                              posted -> "Wed, 30 Mar 2011 04:48:52 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "loves"
+                              plurk_id -> 690930305
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "esaysshares"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "esaysshares"
+                              posted -> "Wed, 30 Mar 2011 04:48:51 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "likes"
+                              plurk_id -> 690930298
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "elovessays"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "elovessays"
+                              posted -> "Wed, 30 Mar 2011 04:48:51 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690930292
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "elikesloves"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "elikesloves"
+                              posted -> "Wed, 30 Mar 2011 04:48:50 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 690930272
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ehatesis"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ehatesis"
+                              posted -> "Wed, 30 Mar 2011 04:48:49 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "hates"
+                              plurk_id -> 690930281
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "eislikes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "eislikes"
+                              posted -> "Wed, 30 Mar 2011 04:48:49 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "gives"
+                              plurk_id -> 690930266
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ehashates"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ehashates"
+                              posted -> "Wed, 30 Mar 2011 04:48:48 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690930253
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "egiveshas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "egiveshas"
+                              posted -> "Wed, 30 Mar 2011 04:48:47 GMT"
+                              owner_id -> 5657590
+Object: 2 elements
+       plurk_users -> 
+                      Object: 1 elements
+                             5657590 -> 
+                                        Object: 12 elements
+                                               nick_name -> "cciwn2010"
+                                               has_profile_image -> 0
+                                               location -> "Taipei, Taiwan"
+                                               avatar -> Null
+                                               is_premium -> False
+                                               date_of_birth -> "Fri, 09 Feb 1990 00:01:00 GMT"
+                                               email_confirmed -> True
+                                               full_name -> "電 資研"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 5657590
+                                               karma -> 19.400000
+       plurks -> 
+                 Array: 30 elements
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "asks"
+                              plurk_id -> 690930246
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "efeelsgives"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "efeelsgives"
+                              posted -> "Wed, 30 Mar 2011 04:48:46 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "was"
+                              plurk_id -> 690928618
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zwillwishes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zwillwishes"
+                              posted -> "Wed, 30 Mar 2011 04:46:32 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "will"
+                              plurk_id -> 690928629
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zwishes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zwishes"
+                              posted -> "Wed, 30 Mar 2011 04:46:32 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "wants"
+                              plurk_id -> 690928604
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zwaswill"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zwaswill"
+                              posted -> "Wed, 30 Mar 2011 04:46:31 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 690928584
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zthinkswants"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zthinkswants"
+                              posted -> "Wed, 30 Mar 2011 04:46:30 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "thinks"
+                              plurk_id -> 690928597
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zwantswas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zwantswas"
+                              posted -> "Wed, 30 Mar 2011 04:46:30 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "loves"
+                              plurk_id -> 690928566
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zsaysshares"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zsaysshares"
+                              posted -> "Wed, 30 Mar 2011 04:46:29 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 690928573
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zsharesthinks"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zsharesthinks"
+                              posted -> "Wed, 30 Mar 2011 04:46:29 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "likes"
+                              plurk_id -> 690928559
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zlovessays"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zlovessays"
+                              posted -> "Wed, 30 Mar 2011 04:46:28 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "hates"
+                              plurk_id -> 690928539
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zislikes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zislikes"
+                              posted -> "Wed, 30 Mar 2011 04:46:27 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690928548
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zlikesloves"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zlikesloves"
+                              posted -> "Wed, 30 Mar 2011 04:46:27 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 690928532
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zhatesis"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zhatesis"
+                              posted -> "Wed, 30 Mar 2011 04:46:26 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690928515
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zgiveshas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zgiveshas"
+                              posted -> "Wed, 30 Mar 2011 04:46:25 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "gives"
+                              plurk_id -> 690928524
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zhashates"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zhashates"
+                              posted -> "Wed, 30 Mar 2011 04:46:25 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "asks"
+                              plurk_id -> 690928506
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "zfeelsgives"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "zfeelsgives"
+                              posted -> "Wed, 30 Mar 2011 04:46:24 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "thinks"
+                              plurk_id -> 690927678
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kwantswas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kwantswas"
+                              posted -> "Wed, 30 Mar 2011 04:45:18 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "wants"
+                              plurk_id -> 690927694
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kwaswill"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kwaswill"
+                              posted -> "Wed, 30 Mar 2011 04:45:18 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 690927668
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kthinkswants"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kthinkswants"
+                              posted -> "Wed, 30 Mar 2011 04:45:17 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 690927655
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ksharesthinks"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ksharesthinks"
+                              posted -> "Wed, 30 Mar 2011 04:45:16 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "likes"
+                              plurk_id -> 690927647
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "klovessays"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "klovessays"
+                              posted -> "Wed, 30 Mar 2011 04:45:15 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "loves"
+                              plurk_id -> 690927649
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "ksaysshares"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "ksaysshares"
+                              posted -> "Wed, 30 Mar 2011 04:45:15 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690927639
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "klikesloves"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "klikesloves"
+                              posted -> "Wed, 30 Mar 2011 04:45:14 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 690927628
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "khatesis"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "khatesis"
+                              posted -> "Wed, 30 Mar 2011 04:45:13 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "hates"
+                              plurk_id -> 690927636
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kislikes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kislikes"
+                              posted -> "Wed, 30 Mar 2011 04:45:13 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "gives"
+                              plurk_id -> 690927618
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "khashates"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "khashates"
+                              posted -> "Wed, 30 Mar 2011 04:45:12 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690927597
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kgiveshas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kgiveshas"
+                              posted -> "Wed, 30 Mar 2011 04:45:12 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "asks"
+                              plurk_id -> 690927581
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kfeelsgives"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kfeelsgives"
+                              posted -> "Wed, 30 Mar 2011 04:45:11 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "wants"
+                              plurk_id -> 690927022
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dwaswill"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dwaswill"
+                              posted -> "Wed, 30 Mar 2011 04:44:27 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "thinks"
+                              plurk_id -> 690927009
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dwantswas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dwantswas"
+                              posted -> "Wed, 30 Mar 2011 04:44:26 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 690926997
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dthinkswants"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dthinkswants"
+                              posted -> "Wed, 30 Mar 2011 04:44:25 GMT"
+                              owner_id -> 5657590
+Object: 2 elements
+       plurk_users -> 
+                      Object: 1 elements
+                             5657590 -> 
+                                        Object: 12 elements
+                                               nick_name -> "cciwn2010"
+                                               has_profile_image -> 0
+                                               location -> "Taipei, Taiwan"
+                                               avatar -> Null
+                                               is_premium -> False
+                                               date_of_birth -> "Fri, 09 Feb 1990 00:01:00 GMT"
+                                               email_confirmed -> True
+                                               full_name -> "電 資研"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 5657590
+                                               karma -> 19.400000
+       plurks -> 
+                 Array: 30 elements
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "likes"
+                              plurk_id -> 690926960
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dlovessays"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dlovessays"
+                              posted -> "Wed, 30 Mar 2011 04:44:24 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "loves"
+                              plurk_id -> 690926970
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dsaysshares"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dsaysshares"
+                              posted -> "Wed, 30 Mar 2011 04:44:24 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690926952
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dlikesloves"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dlikesloves"
+                              posted -> "Wed, 30 Mar 2011 04:44:23 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "hates"
+                              plurk_id -> 690926879
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dislikes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dislikes"
+                              posted -> "Wed, 30 Mar 2011 04:44:17 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "gives"
+                              plurk_id -> 690926862
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dhashates"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dhashates"
+                              posted -> "Wed, 30 Mar 2011 04:44:16 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 690926870
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dhatesis"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dhatesis"
+                              posted -> "Wed, 30 Mar 2011 04:44:16 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690926851
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dgiveshas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dgiveshas"
+                              posted -> "Wed, 30 Mar 2011 04:44:15 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "asks"
+                              plurk_id -> 690926844
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "dfeelsgives"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "dfeelsgives"
+                              posted -> "Wed, 30 Mar 2011 04:44:15 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "thinks"
+                              plurk_id -> 690925701
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "thinkswants"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "thinkswants"
+                              posted -> "Wed, 30 Mar 2011 04:42:48 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 690925683
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "saysshares"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "saysshares"
+                              posted -> "Wed, 30 Mar 2011 04:42:47 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 690925691
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "sharesthinks"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "sharesthinks"
+                              posted -> "Wed, 30 Mar 2011 04:42:47 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "likes"
+                              plurk_id -> 690925668
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "likesloves"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "likesloves"
+                              posted -> "Wed, 30 Mar 2011 04:42:46 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "loves"
+                              plurk_id -> 690925675
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "lovessays"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "lovessays"
+                              posted -> "Wed, 30 Mar 2011 04:42:46 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690925663
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "islikes"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "islikes"
+                              posted -> "Wed, 30 Mar 2011 04:42:45 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "has"
+                              plurk_id -> 690925644
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "hashates"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "hashates"
+                              posted -> "Wed, 30 Mar 2011 04:42:44 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "hates"
+                              plurk_id -> 690925654
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "hatesis"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "hatesis"
+                              posted -> "Wed, 30 Mar 2011 04:42:44 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "gives"
+                              plurk_id -> 690925639
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "giveshas"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "giveshas"
+                              posted -> "Wed, 30 Mar 2011 04:42:43 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690925627
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "feelsgives"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "feelsgives"
+                              posted -> "Wed, 30 Mar 2011 04:42:42 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "feels"
+                              plurk_id -> 690923670
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "1"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "1"
+                              posted -> "Wed, 30 Mar 2011 04:40:12 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690923418
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "a1sddf"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "a1sddf"
+                              qualifier_translated -> "正在"
+                              posted -> "Wed, 30 Mar 2011 04:39:53 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690923264
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "qwre4"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "qwre4"
+                              qualifier_translated -> "正在"
+                              posted -> "Wed, 30 Mar 2011 04:39:40 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690923221
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "asdf"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "asdf"
+                              qualifier_translated -> "正在"
+                              posted -> "Wed, 30 Mar 2011 04:39:37 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690916934
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "pr 1 iv1 p testing 1"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "pr 1 iv1 p testing 1"
+                              posted -> "Wed, 30 Mar 2011 04:31:35 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690735311
+                              response_count -> 1
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "privete plurk testing"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "privete plurk testing"
+                              posted -> "Tue, 29 Mar 2011 23:43:02 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690183598
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "testing 0"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "testing 0"
+                              posted -> "Tue, 29 Mar 2011 11:38:17 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690180647
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "testing -1"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "testing -1"
+                              posted -> "Tue, 29 Mar 2011 11:35:04 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690177381
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "testing 0"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "testing 0"
+                              posted -> "Tue, 29 Mar 2011 11:31:28 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690175679
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "kerker"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "kerker"
+                              qualifier_translated -> "正在"
+                              posted -> "Tue, 29 Mar 2011 11:29:43 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690172723
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "testing ker ker"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "testing ker ker"
+                              posted -> "Tue, 29 Mar 2011 11:26:29 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690170247
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "testing"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "testing"
+                              posted -> "Tue, 29 Mar 2011 11:23:50 GMT"
+                              owner_id -> 5657590
+Object: 2 elements
+       plurk_users -> 
+                      Object: 2 elements
+                             18757 -> 
+                                      Object: 12 elements
+                                             nick_name -> "plurkbuddy"
+                                             has_profile_image -> 1
+                                             location -> ""
+                                             avatar -> 0
+                                             is_premium -> False
+                                             date_of_birth -> "Thu, 01 Jan 1970 00:00:00 GMT"
+                                             email_confirmed -> True
+                                             full_name -> "Plurk Buddy"
+                                             gender -> 1
+                                             timezone -> Null
+                                             id -> 18757
+                                             karma -> 100.000000
+                             5657590 -> 
+                                        Object: 12 elements
+                                               nick_name -> "cciwn2010"
+                                               has_profile_image -> 0
+                                               location -> "Taipei, Taiwan"
+                                               avatar -> Null
+                                               is_premium -> False
+                                               date_of_birth -> "Fri, 09 Feb 1990 00:01:00 GMT"
+                                               email_confirmed -> True
+                                               full_name -> "電 資研"
+                                               gender -> 1
+                                               timezone -> Null
+                                               id -> 5657590
+                                               karma -> 19.400000
+       plurks -> 
+                 Array: 24 elements
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 690158641
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "Hi chums"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "Hi chums"
+                              qualifier_translated -> ""
+                              posted -> "Tue, 29 Mar 2011 11:10:55 GMT"
+                              owner_id -> 5657590
+                       Object: 17 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 690148239
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "test"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "test"
+                              posted -> "Tue, 29 Mar 2011 10:59:50 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> ":"
+                              plurk_id -> 690117515
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "en"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "Hello, World"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "Hello, World"
+                              qualifier_translated -> ""
+                              posted -> "Tue, 29 Mar 2011 10:24:54 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "如果您在鋪浪河道上面看到青蛙圖案，請移除您的自訂CSS背景。因為大部分CSS背景之圖案放置在ImageSheck網站，該公司卻開始禁止圖案外連，造成圖片顯示異常。解決的方法為，請聯絡CSS設計者將圖案放在其他支援外連的網站。"
+                              content_raw -> "如果您在鋪浪河道上面看到青蛙圖案，請移除您的自訂CSS背景。因為大部分CSS背景之圖案放置在ImageSheck網站，該公司卻開始禁止圖案外連，造成圖片顯示異常。解決的方法為，請聯絡CSS設計者將圖案放在其他支援外連的網站。"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 658420629
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Sat, 26 Feb 2011 18:00:04 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "我們目前發現卡巴斯基防毒軟體恐自動刪除IE瀏覽器的cookies，並造成許多使用者在使用噗浪時遭自動登出。為避免類似情況發生，請將 <a href="http://plurk.com" class="ex_link">plurk.com</a> 網址加入卡巴斯基信任網站名單中。"
+                              content_raw -> "我們目前發現卡巴斯基防毒軟體恐自動刪除IE瀏覽器的cookies，並造成許多使用者在使用噗浪時遭自動登出。為避免類似情況發生，請將 plurk.com 網址加入卡巴斯基信任網站名單中。"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 657877603
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Sat, 26 Feb 2011 08:20:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 17 elements
+                              lang -> "en"
+                              content -> "We are having some database issues and currently working on fixing them <a href="http://status.plurk.com/2011/02/08/inconsistent-timelines/" class="ex_link">status.plurk.com/2011/02/08/inconsistent-timelines/</a>"
+                              content_raw -> "We are having some database issues and currently working on fixing them http://status.plurk.com/2011/02/08/inconsistent-timelines/"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 639056106
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              user_id -> 18757
+                              posted -> "Tue, 08 Feb 2011 01:30:03 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "<a href="http://blog.plurk.com/2011/02/01/ipv4-ipv6-happy-hoppy-chinese-new-year-and-plurk/" class="ex_link">噗浪將率先支援 IPv6 囉！也各位噗友兔年行大運，新年快樂，財源滾滾來！</a>"
+                              content_raw -> "http://blog.plurk.com/2011/02/01/ipv4-ipv6-happy-hoppy-chinese-new-year-and-plurk/ (噗浪將率先支援 IPv6 囉！也各位噗友兔年行大運，新年快樂，財源滾滾來！)"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 634273585
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Wed, 02 Feb 2011 13:39:08 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "我們增加了一個新的首頁，讓噗友們更容易發掘新奇有趣的內容 <a href="http://www.plurk.com/t/" class="ex_link">www.plurk.com/t/</a>"
+                              content_raw -> "我們增加了一個新的首頁，讓噗友們更容易發掘新奇有趣的內容 http://www.plurk.com/t/"
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 614251610
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "分享"
+                              user_id -> 18757
+                              posted -> "Fri, 14 Jan 2011 09:30:03 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              responses_seen -> 0
+                              qualifier -> "is"
+                              plurk_id -> 607017005
+                              response_count -> 0
+                              limited_to -> Null
+                              no_comments -> 0
+                              favorite_count -> 0
+                              is_unread -> 0
+                              lang -> "tr_ch"
+                              favorers -> 
+                                          Array: 0 elements
+                              content_raw -> "俊賢阿斯了~"
+                              user_id -> 5657590
+                              plurk_type -> 0
+                              favorite -> False
+                              content -> "俊賢阿斯了~"
+                              qualifier_translated -> "正在"
+                              posted -> "Sat, 08 Jan 2011 08:30:55 GMT"
+                              owner_id -> 5657590
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "您正因為 Karma 值達到 100 而覺得無聊嗎？我們找到了解決方法 ─ Karma 現在沒有上限囉！盡情享受吧！<img src="http://statics.plurk.com/a55bdb344892676b0fea545354654a49.gif" class="emoticon" alt="(dance)" height="35" />"
+                              content_raw -> "您正因為 Karma 值達到 100 而覺得無聊嗎？我們找到了解決方法 ─ Karma 現在沒有上限囉！盡情享受吧！(dance)"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 587351413
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Tue, 21 Dec 2010 20:40:01 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "<a href="http://blog.plurk.com/2010/12/07/early-retirement-for-im-and-plurk-lottery/" class="ex_link">即時通訊整合與隨機聊天功能即將取消</a>"
+                              content_raw -> "http://blog.plurk.com/2010/12/07/early-retirement-for-im-and-plurk-lottery/ (即時通訊整合與隨機聊天功能即將取消)"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 568949500
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Tue, 07 Dec 2010 10:20:03 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "噗浪將關閉30分鐘進行例行維護。 <a href="http://bit.ly/ajTRMR" class="ex_link" rel="nofollow">bit.ly/ajTRMR</a>"
+                              content_raw -> "噗浪將關閉30分鐘進行例行維護。 http://bit.ly/ajTRMR"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 515587616
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Thu, 28 Oct 2010 04:20:01 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "噗浪是什麼? 我們成長的有多快? 我們未來的計劃? <a href="http://bit.ly/daEwTh" class="ex_link" rel="nofollow">在部落格中告訴你</a>"
+                              content_raw -> "噗浪是什麼? 我們成長的有多快? 我們未來的計劃? http://bit.ly/daEwTh (在部落格中告訴你)"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 504392540
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Wed, 20 Oct 2010 01:40:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "同步到 Twitter 的功能回來了! <a href="http://www.plurk.com/?window=%2FTwitterApp" class="ex_link">點這裡開始設定</a>!"
+                              content_raw -> "同步到 Twitter 的功能回來了! http://www.plurk.com/?window=%2FTwitterApp (點這裡開始設定)!"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 496400748
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Thu, 14 Oct 2010 00:50:01 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "我們的資料中心現在有網路問題。正在將其修復。請原諒這個不佳的 Plurk 體驗 <img src="http://statics.plurk.com/11eed61b41a3e935773476ac33bc00d9.gif" class="emoticon" alt=":-(" height="18" />"
+                              content_raw -> "我們的資料中心現在有網路問題。正在將其修復。請原諒這個不佳的 Plurk 體驗 :("
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 455422117
+                              owner_id -> 18757
+                              response_count -> 1
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Sun, 12 Sep 2010 16:30:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "在 Plurk 工作！來亞洲最紅的新創公司上班。我們正在徵聘一位產品開發主管與一位業務開發主管。"
+                              content_raw -> "在 Plurk 工作！來亞洲最紅的新創公司上班。我們正在徵聘一位產品開發主管與一位業務開發主管。"
+                              responses_seen -> 0
+                              qualifier -> "needs"
+                              plurk_id -> 429769520
+                              owner_id -> 18757
+                              response_count -> 1
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "需要"
+                              user_id -> 18757
+                              posted -> "Mon, 23 Aug 2010 09:20:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "用你的手機噗浪跟貼圖吧! <a href="http://www.plurk.com/?window=/Settings/showPlurkMail" class="ex_link">按此開始</a> <img src="http://statics.plurk.com/a55bdb344892676b0fea545354654a49.gif" class="emoticon" alt="(dance)" height="35" />"
+                              content_raw -> "用你的手機噗浪跟貼圖吧! http://www.plurk.com/?window=/Settings/showPlurkMail (按此開始) (dance)"
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 422786022
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "分享"
+                              user_id -> 18757
+                              posted -> "Tue, 17 Aug 2010 14:20:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "分享您的噗浪小故事並繼續幫我們維持部落格～(worship) - <a href="http://blog.plurk.com/2010/06/04/blog-needs-love/" class="ex_link">blog.plurk.com/2010/06/04/blog-needs-love/</a>"
+                              content_raw -> "分享您的噗浪小故事並繼續幫我們維持部落格～(worship) - http://blog.plurk.com/2010/06/04/blog-needs-love/"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 368390184
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Wed, 30 Jun 2010 16:47:08 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "分享您的噗浪小故事並繼續幫我們維持部落格～(worship) - <a href="http://blog.plurk.com/2010/06/04/blog-needs-love/" class="ex_link">blog.plurk.com/2010/06/04/blog-needs-love/</a>"
+                              content_raw -> "分享您的噗浪小故事並繼續幫我們維持部落格～(worship) - http://blog.plurk.com/2010/06/04/blog-needs-love/"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 340785363
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Tue, 08 Jun 2010 00:58:06 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "我們加強了我們的朋友搜尋功能：<a href="http://www.plurk.com/?window=/Friends/inviteFriends" class="ex_link">試試新版本吧！</a>"
+                              content_raw -> "我們加強了我們的朋友搜尋功能：http://www.plurk.com/?window=/Friends/inviteFriends (試試新版本吧！)"
+                              responses_seen -> 0
+                              qualifier -> "shares"
+                              plurk_id -> 195689706
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "分享"
+                              user_id -> 18757
+                              posted -> "Mon, 04 Jan 2010 08:20:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "佳節快樂，感謝支持噗浪！為慶祝佳節，我們特意為各人奉上 +2 Karma 值。"
+                              content_raw -> "佳節快樂，感謝支持噗浪！為慶祝佳節，我們特意為各人奉上 +2 Karma 值。"
+                              responses_seen -> 0
+                              qualifier -> "says"
+                              plurk_id -> 185356939
+                              owner_id -> 18757
+                              response_count -> 0
+                              favorite -> False
+                              plurk_type -> 0
+                              favorers -> 
+                                          Array: 0 elements
+                              qualifier_translated -> "說"
+                              user_id -> 18757
+                              posted -> "Mon, 21 Dec 2009 12:40:02 GMT"
+                              limited_to -> Null
+                              no_comments -> 1
+                              favorite_count -> 0
+                              is_unread -> 0
+                       Object: 18 elements
+                              lang -> "tr_ch"
+                              content -> "中國微軟偷了 Plurk 的網站程式碼和設計。請將這件事宣傳出去，幫助我們與之對抗 <img src="http://statics.plurk.com/11eed61b41a3e935773476ac33bc00d9.gif" class="emoticon" alt=":-(" height="18" /> <a href="http://bit.ly/ms_rips_plurk" class="ex_link" rel="nofollow">bit.ly/ms_rips_plurk</a>"
+                              content_raw -> "中國微軟偷了 Plurk 的網站程式碼和設計。請將這件事�
