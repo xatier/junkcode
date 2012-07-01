@@ -215,5 +215,4 @@ map <F8> :!./%:r<CR>
 " F5 to run a script
 map <F5> :!./%<CR>
 
-foooo
 
