@@ -3,7 +3,7 @@ set timeout 5
 spawn luit -encoding big5 telnet bs2.to
 expect "您的帳號";
 send "darkx\n";
-expect "您的密碼" {send "xatier\n\nx\ng\n1\n5"} timeout {exit}
+expect "您的密碼" {send "******\n\nx\ng\n1\n5"} timeout {exit}
 
 set i 100000;
 while {$i > 0} {
@@ -17,7 +17,3 @@ while {$i > 0} {
 }
 interact
 exit
-
-fred
-alfred
-fredrick
