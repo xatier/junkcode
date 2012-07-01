@@ -23,7 +23,7 @@ endif
 
 " If using a dark background within the editing area and syntax highlighting
 " turn on this option as well
-"set background=dark
+set background=dark
 
 " Uncomment the following to have Vim jump to the last position when
 " reopening a file
@@ -202,15 +202,19 @@ map <F7> :if exists("syntax_on") <BAR>
 \ syntax enable <BAR>
 \ endif <CR>
 
-" F9 to compile C/C++ files
-au FileType cpp map <F9> :!g++ -std=c++0x -Wall -Wextra -pedantic -Ofast % -lm -o %:r<CR>
-au FileType c map <F9> :!gcc -std=c99 -Wall -Wextra -pedantic -Ofast % -lm -o %:r<CR>
 
+" for C/C++ files
+" F9 to compile, F8 to run, F5 to build
+au FileType c map <F9> :!gcc -std=c99 -Wall -Wextra -pedantic -Ofast % -lm -o %:r<CR>
+au FileType cpp map <F9> :!g++ -std=c++0x -Wall -Wextra -pedantic -Ofast % -lm -o %:r<CR>
+au FileType c,cpp map <F8> :!./%:r<CR>
+au FileType c,cpp map <F5> :w<CR> :make<CR>
+
+
+" for Perl files
 " K to lookup current word in perldoc
 au FileType perl nmap K :!perldoc <cword> <bar><bar> perldoc -f <cword><CR><CR>
 
-" F8 to run the program (without file type)
-map <F8> :!./%:r<CR>
 
 " F5 to run a script
 map <F5> :!./%<CR>
