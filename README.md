@@ -1,6 +1,7 @@
 is is my junkcode
 ===================
 
-#### QQ
-----------
-### GG
+#### author
+xatier@github.com
+----
+### QQ
