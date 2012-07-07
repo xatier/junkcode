@@ -3,42 +3,67 @@
 # this is a program from <<Expert C programming>>, ch 3.8
 # a c token parser
 
-class tocken:
+class token:
     """
     a C token
     """
-    def __init__ (t, s):
+    def __init__ (self, t, s):
         _type = t
         _string = s
     def dump():
         print _type, _string
 
-global stack        # stack to record tokens
-global this         # this token
 
+def classfy_string(s):
+    if s == "const":
+        return "qualifier"
+    if s == "volatile":
+        return "qualifier"
+    if s == "void" or s == "char" or s == "signed" or s == "unsigned" or \
+        s == "short" or s == "int" or s == "long" or s == "float" or \
+        s == "double" or s == "struct" or s == "union" or s == "enum":
+        return "type"
+    return "identifier"
 
-def classfy_string():
-    pass
-    #return this._type
 
 def gettocken():
-    p = buffer[buf_ptr]
-    while p == ' '
-        buf_ptr += 1
-        p = buffer[buf_ptr]
+    global buf_ptr
+    while buf[buf_ptr] == ' ':
+        buf_ptr = buf_ptr + 1
+
+    p = buf[buf_ptr]
     if 'a' <= p and p <= 'z':
+        while 1:
+            p += buf[buf_ptr]
+            if not ('a' <= p[-1:] and p[-1:] <= 'z'):
+                p = p[:-1]
+                break
+        this = token(classfy_string(p), p)
+        return
 
+    if p == '*':
+        this = token("*", "pointer to")
+        return
 
-    pass
-    #if this.
+    this = token(p[:1], p[:1])
+
 
 def read_to_first_identifier():
+    gettocken()
+    print this._type, this._string
+    while this._type != "identifier":
+        stack.push(this)
+        gettocken()
+
     print "identifier is ", this._string
-    pass
+    gettocken()
 
 def deal_with_function_args():
-    # read to ')'
-    pass
+    while this._type != ')':
+        gettocken()
+
+    gettocken()
+    print "function returning",
 
 def deal_with_arrays():
     # read [size]
@@ -68,8 +93,11 @@ def deal_with_declarator():
 
 
 if __name__ == '__main__':
-    buf_ptr = 0;
-    global buffer = raw_input()
+    
+    stack = []
+    this = token("", "")
+    buf = raw_input()
+    buf_ptr = 0
     read_to_first_identifier()
     deal_with_declarator()
 
