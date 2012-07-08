@@ -1,11 +1,17 @@
 #include <iostream>
 
+struct foo {
+    int bar;
+};
 
-int main() {
+void funcc (foo f) {
+    std::cout << f.bar;
+}
 
-    int a = 10;
-    (a<<=1)++;
-    std::cout << a;
+int main (void) {
+    foo *bar = new (foo);
+    bar->bar = 20;
+    funcc(*bar);
 
     return 0;
 }
