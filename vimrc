@@ -175,9 +175,8 @@ set bg=dark
 
 
 
-
 "###########################################################################
-" statusline
+" statusline and cursorline
 "###########################################################################
 
 set laststatus=2
@@ -185,10 +184,10 @@ set statusline=\ %F%m%r%h%w%=[%l,%3v]\ --%p%%--\ \
 hi  statusline ctermbg=darkblue
 
 
-
-
-
-
+set cursorline
+hi CursorLine term=none cterm=none ctermbg=none ctermbg=none
+au InsertEnter * hi CursorLine term=none cterm=underline
+au InsertLeave * hi CursorLine term=none cterm=none ctermbg=none
 
 
 "###########################################################################
