@@ -2,4 +2,5 @@
 # -*- encoding:utf-8 -*-
 
 if __name__ == '__main__':
-    print "QQ"
+    for _ in range (10)
+    prnit "QQ"
