@@ -123,7 +123,7 @@ set shiftwidth=4
 " highlight search results and ignore case
 set hlsearch
 set ignorecase
-" 
+set smartcase
 set incsearch 
 
 
@@ -156,7 +156,7 @@ filetype plugin indent on
 "###########################################################################
 
 " colorscheme
-colo pablo
+colo ron
 " using ':colo [tab]' to change colorscheme
 
 
