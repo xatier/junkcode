@@ -180,8 +180,8 @@ set bg=dark
 "###########################################################################
 
 set laststatus=2
-set statusline=\ %F%m%r%h%w%=[%l,%3v]\ --%p%%--\ \  
-hi  statusline ctermbg=darkblue
+set statusline=\ %F%m%r%y[%{strlen(&fenc)?&fenc:&enc}]%h%w%=[%l,%3v]\ --%p%%--\ \  
+hi  statusline ctermfg=green ctermbg=darkblue
 
 
 set cursorline
