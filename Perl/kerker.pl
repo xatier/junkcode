@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use 5.010;
 
+use List::Util qw (sum);
 @a = ( 1 .. 10);
-say join " ",  map {$_**2} @a;
+print sum @a;
