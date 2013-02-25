@@ -3,6 +3,10 @@
 use 5.014;
 
 say `pwd`;
+my $dir = $ARGV[0] // `pwd`;
+chdir $dir;
+say `pwd`;
+#=dd
 while (1) {
     my $diff = `git diff`;
     if ($diff) {
@@ -11,5 +15,6 @@ while (1) {
         `git commit -m "auto commit @ $t"`;
         `git push`;
     }
-    sleep 1;
+    sleep 10;
 }
+#=cut
