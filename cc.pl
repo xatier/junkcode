@@ -6,9 +6,10 @@ say `pwd`;
 while (1) {
     my $diff = `git diff`;
     if ($diff) {
-        my $t = time;
+        my $t = `date +"%F [%T]"`;
         `git add .`;
-        `git commit -m "$t"`;
+        `git commit -m "auto commit @ $t"`;
         `git push`;
     }
+    sleep 1;
 }
