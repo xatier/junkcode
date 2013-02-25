@@ -1,7 +1,7 @@
 --author Andreas Krennmair
 --title A simple example
 --date today
-This is the abstract of this presentation.
+This is the abstract of this presentation. QQ
 It may consist of zero or more lines, and may be as long as you want.
 --newpage agenda
 --heading Agenda
