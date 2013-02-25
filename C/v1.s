@@ -1,5 +1,6 @@
 	.file	"vet.c"
 	.text
+	.p2align 4,,15
 	.globl	p
 	.type	p, @function
 p:
@@ -7,17 +8,18 @@ p:
 	.cfi_startproc
 	subq	$8, %rsp
 	.cfi_def_cfa_offset 16
+	.p2align 4,,10
+	.p2align 3
+.L2:
 	movq	stdout(%rip), %rsi
 	movl	$81, %edi
 	call	_IO_putc
-	movl	$0, %eax
-	call	p
-	addq	$8, %rsp
-	.cfi_def_cfa_offset 8
-	ret
+	jmp	.L2
 	.cfi_endproc
 .LFE11:
 	.size	p, .-p
+	.section	.text.startup,"ax",@progbits
+	.p2align 4,,15
 	.globl	main
 	.type	main, @function
 main:
@@ -25,12 +27,8 @@ main:
 	.cfi_startproc
 	subq	$8, %rsp
 	.cfi_def_cfa_offset 16
-	movl	$0, %eax
+	xorl	%eax, %eax
 	call	p
-	movl	$0, %eax
-	addq	$8, %rsp
-	.cfi_def_cfa_offset 8
-	ret
 	.cfi_endproc
 .LFE12:
 	.size	main, .-main

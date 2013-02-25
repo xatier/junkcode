@@ -1,14 +1,7 @@
 #include <iostream>
-
-class foo {
-public:
-    foo(void) : qq(10) {std::cout << "foo constructed" << qq << std::endl;}
-    ~foo(void) {std::cout << "foo destructed" << std::endl;}
-private:
-    int qq;
-};
+#include <cstdlib>
 
 int main () {
-    foo *a = new foo();
+    char *c = malloc(10);
 
 }
