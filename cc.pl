@@ -2,11 +2,10 @@
 
 use 5.014;
 
-say `pwd`;
 my $dir = $ARGV[0] // `pwd`;
 chdir $dir;
-say `pwd`;
-#=dd
+say "start auto commit under: " . `pwd`;
+
 while (1) {
     my $diff = `git diff`;
     if ($diff) {
@@ -17,4 +16,3 @@ while (1) {
     }
     sleep 10;
 }
-#=cut
