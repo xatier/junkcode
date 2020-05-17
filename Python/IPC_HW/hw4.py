@@ -2,7 +2,7 @@
 
 import sys
 
-def good (n) :
+def good(n):
     s = str (n)
     l = len (s) - 2
     L = []
@@ -10,7 +10,7 @@ def good (n) :
     if l <= 0 :
          L.append(s)
 
-    for i in range (0, l) :
+    for i in range(l):
         L.append (s[i:i+3])
 
     L.sort()
