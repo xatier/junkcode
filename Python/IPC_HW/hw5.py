@@ -2,8 +2,8 @@
 
 import sys
 
-def judge (n) :
-    if n == '+' or n == '-' :
+def judge(n):
+    if n in ['+', '-']:
         return 0
     elif n == '.' :
         return 1
@@ -12,20 +12,16 @@ def judge (n) :
     elif n == '\n' :
         return 3
 
-def f (n) :
+def f(n):
     q = 's'
-    for i in range (0, len(n)) :
+    for i in range(len(n)):
         j = judge (n[i:i+1])
-        if q == 's' :
+        if q == 's':
             q = ('s' if j == 0 else 'd' if j == 2 else 'f' if j == 1 else 'e')
-        elif q == 'd' :
+        elif q == 'd':
             q = ('d' if j == 2 else 'r' if j == 1 else 'e')
-        elif q == 'f' :
+        elif q in ['f', 'r']:
             q = ('r' if j == 2 else 'e')
-        elif q == 'r' :
-            q = ('r' if j == 2 else 'e')
-
-
     return q == 'r'
 
 if __name__ == '__main__' :

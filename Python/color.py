@@ -26,7 +26,7 @@ echo("\n")
 
 y=16
 while y < 231:
-    for z in range(0,6):
+    for _ in range(6):
         out(y)
         y += 1
 
@@ -37,7 +37,7 @@ echo("\n")
 
 for n in range(232, 256):
     out(n)
-    if n == 237 or n == 243 or n == 249:
+    if n in [237, 243, 249]:
         echo("\n")
 
 echo("\n")

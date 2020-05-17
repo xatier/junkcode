@@ -20,25 +20,23 @@ def gen (table) :
     print "done"
 
 
-def factorization (n) :
+def factorization(n):
     sys.stdout.write ("Prime factorization of %d = " % (n))
     (i, N, S) = (0, 1, 1)
-    while n > 1 :
+    while n > 1:
         p = table[i]
         e = 0
         while n % p == 0 :
             e += 1
             n /= p
-        if e > 0 :
+        if e > 0:
             sys.stdout.write ("pow(%d,%d)" % (p, e))
             N *= e + 1
-            ss = 0
-            for t in range (0, e+1) :
-                ss += p**t
+            ss = sum(p**t for t in range(e+1))
             S *= ss 
-            
+
         i += 1
-        
+
     sys.stdout.write ("\nNumber of divisors = %d\nSum of divisors = %d\n\n" % (N, S))
     
 

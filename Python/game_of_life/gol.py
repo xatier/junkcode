@@ -26,19 +26,19 @@ def init () :                          # init the map
 
 
 
-def print_m () :
+def print_m():
 #    os.system('clear')                # i don't know others method to clear
                                        # the screen orz
     sys.stdout.write ("\033[2J")       # using VT100 cmd 
-    for i in range (1, N+1) :
+    print                          # new line
+
+    for i in range (1, N+1):
         for j in range (1, N+1) :
             cc = "\033[1;%d;40m" % (30+m['color'])
             if m[i+j*N] == 1 :
                 sys.stdout.write ("%s0 \033[m" % (cc))
             elif m[i+j*N] == 0 :
                 sys.stdout.write ("\033[0;37;40m. \033[m")
-        print                          # new line
-
     m['color'] += 1                    # change to next color
     m['color'] %= 6
 
@@ -51,22 +51,20 @@ def update () :
 
 
 
-def gen_next () :
-    for i in range (1, N+1) :
-        for j in range (1, N+1) :
+def gen_next():
+    for i in range (1, N+1):
+        for j in range (1, N+1):
             t = 0                      # t to count its neighbors
-            for k in range (0, 8) :
+            for k in range(8):
                 try :
                     t += m[(i+direct[k][0]) + (j+direct[k][1])*N]
                 except :
                     pass               # maybe its neighbor is undefined Q_Q
 
-            if m[i+j*N] == 1 :
-                if t == 0 or t == 1 :
+            if m[i+j*N] == 1:
+                if t in [0, 1] or t >= 4:
                     nm[i+j*N] = 0
-                elif t >= 4 :
-                    nm[i+j*N] = 0
-                elif t == 2 or t == 3 :
+                elif t in [2, 3]:
                     nm[i+j*N] = 1
             elif m[i+j*N] == 0 :
                if t == 3 :
@@ -94,14 +92,12 @@ def go () :
                 return                       # pretend nothing happend XD
     
 
-def rnd () :
-    T = 80
-    while T > 0 :
+def rnd():
+    for _ in range(80, 0, -1):
         try :
             nm[(random.randint(0,N))+(random.randint(0,N))*N] ^= 1
         except :
             pass
-        T -= 1
     update ()
 
 if __name__ == '__main__' :
